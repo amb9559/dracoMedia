@@ -1,0 +1,35 @@
+.about-us-section {
+    background-color: #0a4b75;
+    color: white;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
+.about-us-content {
+    width: 50%;
+}
+
+.about-us-alignment {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    
+}
+
+.about-important-points {
+    padding-left: 4rem;
+    padding-right: 4rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.points-heading {
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.about-us-points {
+    font-size: 1.25rem;
+    padding-bottom: 0.5rem;
+}
