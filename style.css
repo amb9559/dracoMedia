@@ -1,0 +1,14 @@
+.draco-media-header {
+    font-size: 2rem;
+}
+
+
+.nav-link-alignment {
+    justify-content: end;
+}
+
+.nav-item-alignment {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    color: rgba(0, 0, 0, 0.5);
+}
