@@ -1,5 +1,5 @@
 .draco-media-header {
-    font-size: 2rem;
+    font-size: 2.5rem;
 }
 
 
@@ -10,5 +10,11 @@
 .nav-item-alignment {
     padding-right: 0.5rem;
     padding-left: 0.5rem;
+    font-size: 1.25rem;
     color: rgba(0, 0, 0, 0.5);
+}
+
+.header-margin {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
